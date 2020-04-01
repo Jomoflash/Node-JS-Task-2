@@ -6,3 +6,6 @@ Format: ![Bin screenshot](url)
 
 ![Console screenshot](/screenshots/Capture2.PNG)
 Format: ![Console screenshot](url)
+
+![Console screenshot](/screenshots/Capture3.PNG)
+Format: ![Console screenshot](url)
