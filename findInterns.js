@@ -8,7 +8,9 @@ MongoClient.connect(url, function(err, db) {
     var dbo = db.db("Jomoflash")  //Switch to Jomoflash Database
     console.log(`Swithched to ${dbo.databaseName} database`);
 
-    dbo.collection("myMovies").findOne({}, function(err, result) {
+    var query = { rating : 7 };
+
+    dbo.collection("myMovies").find(query).toArray(function(err, result) {
         if (err) throw err;
         console.log(result);
         db.close();
