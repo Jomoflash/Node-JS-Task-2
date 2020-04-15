@@ -7,3 +7,4 @@
 ![Bin screenshot](/screenshots/findIntern(a).PNG)
 ![Bin screenshot](/screenshots/findIntern(b).PNG)
 ![Bin screenshot](/screenshots/findIntern(c).PNG)
+![Bin screenshot](/screenshots/update.PNG)
